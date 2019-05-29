@@ -26,7 +26,3 @@ EN01 Canadian Rifles - Eastern Nurseries EP
 <a href="http://eastern-nurseries.bandcamp.com/">bandcamp</a> | 
 <a href="http://www.discogs.com/label/Eastern+Nurseries">discogs</a> |
  info@eastern-nurseries.net</p>
-</font>
-</center>
-</body>
-</html>
