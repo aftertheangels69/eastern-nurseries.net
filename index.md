@@ -1,5 +1,5 @@
 <center>
-<img src="http://northernelectronics.se/2.jpg" alt="logo" width="70px" height="70px">
+<img src="https://f4.bcbits.com/img/0016471889_20.jpg" alt="logo" width="70px" height="70px">
 <FONT FACE="verdana">
 <p style="font-size:xx-small;">
 <br>
