@@ -1,12 +1,3 @@
-<html>
-<head>
-<title>Eastern Nurseries</title>
-</head>
-<body link="#000000" vlink="#000000" alink="#000000"background="" bgproperties="fixed">
-<style type="text/css">a {text-decoration: none}</style>
-<br>
-<br>
-<br>
 <center>
 <img src="http://northernelectronics.se/2.jpg" alt="logo" width="70px" height="70px">
 <FONT FACE="verdana">
@@ -18,35 +9,10 @@
 Catalogue:
 <br>
 <br>
-<br>
 EN01 Canadian Rifles - Eastern Nurseries EP
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br><br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br><br>
 <br>
 <br>
 <br>
