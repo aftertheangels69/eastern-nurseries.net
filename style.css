@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: Font2;
-  src: url(GascogneTSRegular.otf);
+  src: url(Alliance-NeueMedium.otf);
 }
 
 header img {
@@ -53,7 +53,7 @@ nav a {
   color: #404040;
   font-size: 14px;
   letter-spacing: 0.05mm;
-  font-family: Font1;
+  font-family: Font2;
 }
 
 nav a:hover {
